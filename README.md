@@ -1,4 +1,12 @@
 
 
-#### Coming soon . . . 
+## Introduce
+
+## Language
+
+## Skill
+
+## Interest
+
+## etc
 
