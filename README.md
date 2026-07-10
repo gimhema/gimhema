@@ -6,9 +6,9 @@ Game Programmer
 
 ## Language
 
-Major : C++, Python 
+Major : C++, Python, C# 
 
-Study & Interest : C#, Rust, Clojure, TypeScript
+Study & Interest : Rust, Haskell, Fortran
 
 ## Interest
 
